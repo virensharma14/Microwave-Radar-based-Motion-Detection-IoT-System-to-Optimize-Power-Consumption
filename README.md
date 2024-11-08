@@ -9,4 +9,4 @@ a 7.5-digit Keithley multimeter, RSA306B spectrum analyzer, and EMI and EMC prob
 
 ![Motion sensor PCB Modified](https://github.com/user-attachments/assets/481092f3-57dd-4beb-9ba1-906ebff24377)
 
-![Uploading Motion sensor PCB Gerber.png…]()
+![Motion sensor PCB Gerber](https://github.com/user-attachments/assets/decc5acf-a9ee-4458-9523-61e25f97885b)
