@@ -1,4 +1,4 @@
-**Overview**
+# Overview
 This project proposes an intelligent Internet of Things (IoT) network to optimize power consumption in large
 halls, amphitheater, auditoriums, theatres, dining halls, etc., by controlling the appliances based on motion detection. The
 proposed network deploys individual sensor nodes at different zones with a microwave radar module for human presence detection and monitoring. 
