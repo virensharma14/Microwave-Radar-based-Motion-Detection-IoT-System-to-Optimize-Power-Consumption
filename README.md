@@ -6,3 +6,5 @@ After sensing human motion, the node utilizes the NodeMCU microcontroller board 
 Using the MQTT protocol, data is collected from each sensor node in the network and is shared and stored in a secure database. Node-RED dashboard is 
 used to monitor and control the network remotely. An accuracy of nearly 80% is achieved after multiple iterations of prototyping and measurements using
 a 7.5-digit Keithley multimeter, RSA306B spectrum analyzer, and EMI and EMC probes.
+
+![Motion sensor PCB Modified](https://github.com/user-attachments/assets/481092f3-57dd-4beb-9ba1-906ebff24377)
