@@ -8,3 +8,5 @@ used to monitor and control the network remotely. An accuracy of nearly 80% is a
 a 7.5-digit Keithley multimeter, RSA306B spectrum analyzer, and EMI and EMC probes.
 
 ![Motion sensor PCB Modified](https://github.com/user-attachments/assets/481092f3-57dd-4beb-9ba1-906ebff24377)
+
+![Uploading Motion sensor PCB Gerber.png…]()
